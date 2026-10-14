@@ -1,0 +1,36 @@
+﻿# Windows OS temporary & system files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Editor & IDE settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# PowerShell & Scripting artifacts
+*.log
+*.tmp
+*.bak
+*~
+
+# Credentials & Local Environment
+*.env
+*.pfx
+*.cer
+*.key
+credentials.json
+secrets.ps1
